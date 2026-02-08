@@ -1,4 +1,4 @@
-<img align="left" height="221" src="https://media.tenor.com/CpMWfHXqzB4AAAAj/suspicious-wallace-wells.gif"  />
+<img align="left" height="183" src="https://media.tenor.com/CpMWfHXqzB4AAAAj/suspicious-wallace-wells.gif"  />
 
 ###
 
@@ -10,13 +10,19 @@
 
 ###
 
-<h4 align="left">🌍 Idiomas<br><br>Portuguese – Native<br><br>English – Intermediate<br><br>Spanish – Intermediate</h4>
+<img align="right" height="164" src="https://image2url.com/r2/default/gifs/1770531231422-fe0f12a5-bcc7-4456-9b65-5d6106028705.gif"  />
 
 ###
 
-<h2 align="left"></h2>
+<h4 align="left">🌍Languages<br><br>Portuguese – Native<br><br>English – Intermediate<br><br>Spanish – Intermediate</h4>
 
 ###
+
+<h1 align="left"></h1>
+
+###
+
+<br clear="both">
 
 <h4 align="left">Programming links that will be seen more in the profile</h4>
 
@@ -25,22 +31,22 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <h2 align="left"></h2>
+
+###
+
+<img align="left" height="109" src="https://image2url.com/r2/default/gifs/1770531073355-7355365a-604e-4406-b7f5-f48c4097222b.gif"  />
 
 ###
 
@@ -58,26 +64,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-<!--
-**JBbrust/JBbrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
