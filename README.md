@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">🌍Languages<br><br>Portuguese – Native<br><br>English – Intermediate<br><br>Spanish – Intermediate</h4>
+<h3 align="left">🌍Languages<br><br>Portuguese – Native<br><br>English – Intermediate<br><br>Spanish – Intermediate</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h4 align="left">Programming links that will be seen more in the profile</h4>
+<h3 align="left">Programming languages that will be seen more in the profile</h3>
 
 ###
 
@@ -46,11 +46,11 @@
 
 ###
 
-<img align="left" height="109" src="https://image2url.com/r2/default/gifs/1770531073355-7355365a-604e-4406-b7f5-f48c4097222b.gif"  />
+<img align="left" height="162" src="https://image2url.com/r2/default/gifs/1770531073355-7355365a-604e-4406-b7f5-f48c4097222b.gif"  />
 
 ###
 
-<h3 align="left">My contacts</h3>
+<h4 align="left">My contacts</h4>
 
 ###
 
