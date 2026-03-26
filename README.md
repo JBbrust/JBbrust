@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🌍Languages<br><br>Portuguese – Native<br><br>English – Intermediate<br><br>Spanish – Intermediate</h3>
+<h3 align="left">🌍Languages<br><br>Portuguese – Native<br><br>English – Basic<br><br>Spanish – Intermediate</h3>
 
 ###
 
@@ -48,6 +48,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo"  />
 </div>
 
 ###
